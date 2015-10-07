@@ -1,0 +1,22 @@
+{
+  "name": "Bling",
+  "version": "0.0.0",
+  "authors": [
+    "Michael Afrides <mafrides@gmail.com>"
+  ],
+  "description": "A Simple Bing Clone",
+  "main": "app.js",
+  "license": "None",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.5",
+    "angular": "~1.4.5",
+    "angular-spinner": "~0.6.2"
+  }
+}

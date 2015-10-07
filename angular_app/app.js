@@ -1,0 +1,1 @@
+angular.module('SimpleBingClone', ['ngRoute', 'angularSpinner']);
